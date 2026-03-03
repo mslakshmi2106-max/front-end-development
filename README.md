@@ -14,6 +14,8 @@ https://mslakshmi2106-max.github.io/front-end-development/navbar.html
 <img width="846" height="592" alt="Screenshot 2026-03-03 141521" src="https://github.com/user-attachments/assets/05969289-f750-48e9-86c5-436f1c483c3f" />
 https://mslakshmi2106-max.github.io/front-end-development/navbar.html
 <img width="1280" height="666" alt="image" src="https://github.com/user-attachments/assets/0de5df78-37ae-40bb-89e3-8ce46b117048" />
+ https://mslakshmi2106-max.github.io/front-end-development/navbar.html
+ <img width="1307" height="630" alt="image" src="https://github.com/user-attachments/assets/2377d258-3af3-4969-8244-a0a3d0abc771" />
 
 
  
