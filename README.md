@@ -10,6 +10,8 @@ https://mslakshmi2106-max.github.io/front-end-development/form.html
  <img width="1366" height="768" alt="Screenshot (150)" src="https://github.com/user-attachments/assets/da77d0dc-0eea-4ffe-9da7-75bc32e81459" />
  https://mslakshmi2106-max.github.io/front-end-development/login.html
  <img width="1366" height="768" alt="Screenshot (151)" src="https://github.com/user-attachments/assets/8ed4bffd-6285-4e20-95d6-fa2df47e21e4" />
+https://mslakshmi2106-max.github.io/front-end-development/navbar.html
+<img width="846" height="592" alt="Screenshot 2026-03-03 141521" src="https://github.com/user-attachments/assets/05969289-f750-48e9-86c5-436f1c483c3f" />
 
 
  
