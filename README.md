@@ -22,8 +22,9 @@ https://mslakshmi2106-max.github.io/front-end-development/navbar.html
 <img width="880" height="570" alt="Screenshot 2026-05-25 094652" src="https://github.com/user-attachments/assets/fa4fd587-bbd1-47ba-9b83-77ef60e786b8" />
  https://mslakshmi2106-max.github.io/front-end-development/clock.html
  <img width="918" height="537" alt="Screenshot 2026-05-25 100024" src="https://github.com/user-attachments/assets/8f5e8049-0a6a-47bd-b257-fc9fd1880073" />
+ https://mslakshmi2106-max.github.io/front-end-development/event handling.html
+ <img width="651" height="357" alt="Screenshot 2026-05-25 100703" src="https://github.com/user-attachments/assets/ebb6b083-3447-4da3-ab56-280c9555c8b1" />
 
- 
   
 
 
