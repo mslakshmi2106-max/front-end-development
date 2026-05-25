@@ -20,6 +20,8 @@ https://mslakshmi2106-max.github.io/front-end-development/navbar.html
  <img width="1328" height="661" alt="Screenshot 2026-03-18 113513" src="https://github.com/user-attachments/assets/2352e4c1-00b1-44d6-8479-0954ae3b7162" />
  https://mslakshmi2106-max.github.io/front-end-development/calculator.html
 <img width="880" height="570" alt="Screenshot 2026-05-25 094652" src="https://github.com/user-attachments/assets/fa4fd587-bbd1-47ba-9b83-77ef60e786b8" />
+ https://mslakshmi2106-max.github.io/front-end-development/clock.html
+ <img width="918" height="537" alt="Screenshot 2026-05-25 100024" src="https://github.com/user-attachments/assets/8f5e8049-0a6a-47bd-b257-fc9fd1880073" />
 
  
   
