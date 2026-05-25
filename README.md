@@ -26,6 +26,8 @@ https://mslakshmi2106-max.github.io/front-end-development/navbar.html
  <img width="1288" height="478" alt="Screenshot 2026-05-25 103331" src="https://github.com/user-attachments/assets/39188cb1-98e0-4b64-bccf-ad4975f06ff5" />
  https://mslakshmi2106-max.github.io/front-end-development/image.html
  <img width="874" height="494" alt="Screenshot 2026-05-25 102648" src="https://github.com/user-attachments/assets/cfdd690a-5814-4ea4-8c04-4b2ace3938f0" />
+ https://mslakshmi2106-max.github.io/front-end-development/webpage.html
+ <img width="1366" height="768" alt="Screenshot 2026-05-25 104236" src="https://github.com/user-attachments/assets/397e066f-0057-4e6d-a8b3-b1b368cd960e" />
 
   
 
