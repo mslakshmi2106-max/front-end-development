@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Event Handling Example</title>
+<style>
+body{
+font-family:"Times New Roman";
+text-align:center;
+background-color:white;
+}
+.container{
+margin-top:10px;
+}
+button{
+padding:10px 20px;
+font-size:16px;
+margin:10px;
+background: green;
+color: white;
+}
+#message{
+font-size:20px;
+color:blue;
+}
+</style>
+<script>
+function showMessage(){
+document.getElementById("message").innerHTML="Thangs";
+}
+function changeColor(){
+document.body.style.backgroundColor="pink";
+}
+function resetColor(){
+document.body.style.backgroundColor="white";
+}
+</script>
+</head>
+<body>
+<div class="container">
+<h2>JavaScript Event Handling</h2>
+<button onclick="showMessage()">Click Me</button>
+<button onmouseover="changeColor()"onmouseout="resetColor()">Hover Over Me</button>
+<p id="message"></p>
+</div>
+</body>
+</html>
