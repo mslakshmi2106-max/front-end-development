@@ -38,7 +38,8 @@ https://mslakshmi2106-max.github.io/front-end-development/navbar.html
 <img width="1348" height="485" alt="image" src="https://github.com/user-attachments/assets/8a5d1665-f1f8-47b7-b471-00c56297498c" />
  https://mslakshmi2106-max.github.io/front-end-development/react.html
 <img width="1315" height="570" alt="image" src="https://github.com/user-attachments/assets/683141ea-0432-47e8-9119-fad2d21375c9" />
-
+ https://mslakshmi2106-max.github.io/front-end-development/react counter.html
+<img width="1284" height="565" alt="image" src="https://github.com/user-attachments/assets/d3861995-bc8b-4ba5-9224-854c4ce4d792" />
 
 
  
