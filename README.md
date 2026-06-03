@@ -34,7 +34,8 @@ https://mslakshmi2106-max.github.io/front-end-development/navbar.html
  <img width="1366" height="768" alt="bootstrap" src="https://github.com/user-attachments/assets/c7e7a9e5-9ac6-489f-9d28-c2d20ecf5ca9" />
  https://mslakshmi2106-max.github.io/front-end-development/myntra.html
 <img width="1323" height="623" alt="image" src="https://github.com/user-attachments/assets/648de016-f20a-430f-a41b-aa528500cfdc" />
-  
+  https://mslakshmi2106-max.github.io/front-end-development/Font.html 
+<img width="1348" height="485" alt="image" src="https://github.com/user-attachments/assets/8a5d1665-f1f8-47b7-b471-00c56297498c" />
 
 
 
