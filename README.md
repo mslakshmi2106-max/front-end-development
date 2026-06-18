@@ -42,6 +42,8 @@ https://mslakshmi2106-max.github.io/front-end-development/navbar.html
 <img width="1284" height="565" alt="image" src="https://github.com/user-attachments/assets/d3861995-bc8b-4ba5-9224-854c4ce4d792" />
 https://mslakshmi2106-max.github.io/front-end-development/coffee.html
 <img width="1308" height="606" alt="image" src="https://github.com/user-attachments/assets/43eeea46-566e-4f6a-ab61-ae608dfdf4e2" />
+https://mslakshmi2106-max.github.io/front-end-development/college.html
+<img width="1336" height="654" alt="image" src="https://github.com/user-attachments/assets/93deb4a5-3c99-4e7e-aba6-83ca3c1e12ee" />
 
 
  
